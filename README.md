@@ -6,7 +6,7 @@ Im Here is a simple React Native mobile application that allows users to create 
 
 ![Screenshot 1](/src-empty.png)
 ![Screenshot 2](/src-list.png)
-![Screenshot 3](/srcs-completed.png)
+![Screenshot 3](/src-completed.png)
 
 ## Features
 
